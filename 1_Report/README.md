@@ -1,6 +1,3 @@
-Here's the content of the provided document, formatted as a `.md` (Markdown) file:
-
-```md
 # CAPSTONE PROJECT
 # ELECTROCARDIOGRAM (ECG) ARRHYTHMIA CLASSIFICATION USING DEEP LEARNING REPORT
 
