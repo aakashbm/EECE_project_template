@@ -1,1 +1,0 @@
-# EECE_project_template
